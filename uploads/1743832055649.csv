@@ -1,0 +1,9 @@
+containerId, zone, width, depth, height
+C1,Zone C,120,220,320
+C2,Zone D,140,240,340
+C3,Zone E,160,260,360
+C4,Zone F,180,280,380
+C5,Zone G,110,210,310
+C6,Zone H,130,230,330
+C7,Zone I,170,270,370
+C8,Zone J,190,290,390

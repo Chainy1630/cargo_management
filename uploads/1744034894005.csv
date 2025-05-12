@@ -1,0 +1,5 @@
+Zone,Container ID,Width(cm),Depth(cm),Height(cm)
+Crew Quarters,contA1,100,85,200
+Airlock,contB1,50,85,200
+Laboratory,contC1,200,85,200
+Crew Quarters,contA2,120,90,210

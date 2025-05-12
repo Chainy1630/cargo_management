@@ -1,0 +1,21 @@
+Item ID,Name,Width (cm),Depth (cm),Height (cm),Mass (kg),Priority (1-100),ExpiryDate (ISO Format),Usage Limit,Preferred Zone
+021,First Aid Kit,10,10,20,6,88,2026-06-15,40 uses,Infirmary
+022,Fuel Tank,30,30,60,50,92,N/A,500 uses,Storage
+023,Nutrition Bar,5,5,10,1,75,2025-11-30,50 uses,Pantry
+024,Flashlight,5,5,20,2,65,N/A,200 uses,Engineering
+025,Battery Pack,10,10,15,3,85,N/A,Unlimited,Storage
+026,Data Tablet,8,8,10,2,95,2027-01-20,500 uses,Command Center
+027,Safety Gear,20,20,30,8,78,N/A,Unlimited,Airlock
+028,Power Converter,15,15,20,12,82,N/A,100 uses,Engineering
+029,Space Blanket,10,5,2,0.5,50,N/A,50 uses,Crew Quarters
+030,Tool Pouch,8,8,10,5,70,N/A,Unlimited,Engineering
+031,Portable Stove,15,15,25,7,88,2026-03-10,200 uses,Pantry
+032,Water Filtration Unit,20,20,40,15,93,N/A,Unlimited,Laboratory
+033,Backup Oxygen Cylinder,15,15,50,30,95,N/A,100 uses,Airlock
+034,Helmet Visor,8,8,5,1.2,80,N/A,Unlimited,Command Center
+035,Solar Charger,25,25,5,4,85,N/A,Unlimited,Storage
+036,Space Suit,50,30,150,60,98,N/A,Unlimited,Airlock
+037,Seed Packets,5,5,2,0.3,75,2025-09-15,100 uses,Laboratory
+038,Mechanical Arm,50,20,100,40,90,N/A,Unlimited,Engineering
+039,Medical Scanner,15,15,30,10,95,2026-07-01,Unlimited,Infirmary
+040,Hydration Pack,10,10,20,1.5,85,2025-08-05,50 uses,Crew Quarters
